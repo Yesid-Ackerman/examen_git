@@ -1,6 +1,7 @@
 Cambios Commit Main
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cambios commit 2 Dev_branch
 Cambios commit 2 Main
 
@@ -14,3 +15,8 @@ Cambios commit 1 Qa_branch
 
 Cambios commit 1 Qa_branch
 >>>>>>> Qa_branch
+=======
+Cambios commit 2 Main
+
+Cambio 3 Main
+>>>>>>> d5ae8a2055aac4666b76f7a0739ae761f33eed82
