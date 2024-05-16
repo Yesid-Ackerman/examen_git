@@ -1,8 +1,16 @@
 Cambios Commit Main
 
+<<<<<<< HEAD
 Cambios commit 2 Dev_branch
 Cambios commit 2 Main
 
 Cambio 3 Main
 
 cambio 4 Main
+=======
+Cambios commit 2 Main
+
+Cambios commit 1 Qa_branch
+
+Cambios commit 1 Qa_branch
+>>>>>>> Qa_branch
