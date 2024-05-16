@@ -2,4 +2,10 @@ Cambios Commit Main
 
 Cambios commit 2 Main
 
+<<<<<<< HEAD
 Cambios desde Prod_branch
+=======
+Cambios commit 1 Qa_branch
+
+Cambios commit 1 Qa_branch
+>>>>>>> Qa_branch
